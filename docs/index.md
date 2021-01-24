@@ -1,8 +1,10 @@
 # WKS Documentation
 
+![WKS](../images/logo2-dk.png)
+
 Welcome to the new edition of Dogtec Web Kennel System, an online kennel social networking service, operated by Dogtec, LLC. Here is information on how to use the site. *Note that a few things are different from the previous edition.*
 
-**If you you want to report a bug or an issue please do so [here](https://github.com/jphilip/wks-documentation/issues).**
+**If you you want to report a bug or an issue please do so [here](https://github.com/jphilip/issues).**
 
 ## New Features based on user feedback
 
