@@ -30,9 +30,9 @@ Welcome to the new edition of Dogtec Web Kennel System, an online kennel social 
 
 When you register as a user, your kennel is now automatically registered, but there can only be one user for a kennel, which is different from the previous version. You can now log in with Facebook or Google in addition to the regular WKS login, however, you must first be registered on WKS before you can do that. There are still free and PRO accounts, free accounts are limited to 100 items (dogs or images); more details on the differences between free and pro accounts [here](https://www.dogtec.com/registration/). After you are logged in, you can access the admin interface from the menu under you user name on the top right of the page. From there, you can also request a password reset, edit your profile (name or email). The admin section is divided into the following modules:
 
-## Kennel Administration
+## Account Administration
 
-On all the Admin Sections listings, you can search by fields relevant to the topic, for example first or last name for mushers. You can also perform operations in bulk (mostly delete at this time). *Note that some items like dogs have identifiers based on the name or title of the items.* These are used in the URL. WKS will let you change it after you created the item, however keep in mind that if you change the identifier after some time, the item URL will change, which could affect for example the number of Facebook Likes that the item received.
+You can access the site admin by clicking on the Admin link under your user name on top right of the menu. On all the Admin Sections listings, you can search by fields relevant to the topic, for example first or last name for mushers. You can also perform operations in bulk (mostly delete at this time). *Note that some items like dogs have identifiers based on the name or title of the items.* These are used in the URL. WKS will let you change it after you created the item, however keep in mind that if you change the identifier after some time, the item URL will change, which could affect for example the number of Facebook Likes that the item received.
 
 ### Ad Admin Section
 
