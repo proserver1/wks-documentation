@@ -1,6 +1,6 @@
 # WKS Documentation
 
-![WKS](../images/logo2.svg)
+![WKS](images/logo2.svg)
 
 Welcome to the new edition of Dogtec Web Kennel System, an online kennel social networking service, operated by Dogtec, LLC. Here is information on how to use the site. *Note that a few things are different from the previous edition.*
 
