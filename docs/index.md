@@ -4,7 +4,15 @@
 
 Welcome to the new edition of Dogtec Web Kennel System, an online kennel social networking service, operated by Dogtec, LLC. Here is information on how to use the site. *Note that a few things are different from the previous edition.*
 
-**If you you want to report a bug or an issue please do so [here](https://github.com/jphilip/wks-documentation/issues).**
+**If you you want to report a bug or an issue please do so [here](https://github.com/jphilip/issues).**
+
+## Index
+
+* [New Features based on user feedback](#new-features-based-on-user-feedback)
+* [Unpopular Features Removed](#unpopular-features-removed)
+* [Registration and Login](#registration-and-login)
+* [FAQs](#faqs)
+* [Account Administration](#account-administration)
 
 ## New Features based on user feedback
 
@@ -29,6 +37,12 @@ Welcome to the new edition of Dogtec Web Kennel System, an online kennel social 
 ## Registration and Login
 
 When you register as a user, your kennel is now automatically registered, but there can only be one user for a kennel, which is different from the previous version. You can now log in with Facebook or Google in addition to the regular WKS login, however, you must first be registered on WKS before you can do that. There are still free and PRO accounts, free accounts are limited to 100 items (dogs or images); more details on the differences between free and pro accounts [here](https://www.dogtec.com/registration/). After you are logged in, you can access the admin interface from the menu under you user name on the top right of the page. From there, you can also request a password reset, edit your profile (name or email). The admin section is divided into the following modules:
+
+## FAQs
+
+### How can we find dogs for sale
+
+The ads system was changed based on a feedback survey from last summer. People wanted a dedicated ads section which is what I did. Now it is not populated because it is new and most people are busy racing these days. Eventually this will be the most reliable way to find dogs for sale. It is only for PRO kennels because if people are going to make money selling dogs with WKS, it is only fair that they help in maintaining the system. It does not mean that other people cannot have dogs for sale groups like before; the way to find them would be by doing a search on "sale" for example, which will give results by kennel with generally the PRO kennels first in the list, knowing that the search engine will have to be tuned up to give meaningful ranking (not an easy task). If you look for dogs in a specific kennel, you can search that kennel's name and maybe add "sale" to the search. Then in that kennel's results, look under groups if there is a for sale group.
 
 ## Account Administration
 
@@ -67,4 +81,4 @@ The Mushers Admin is very similar to the breeds and is used to add/edit first an
 
 #### Videos
 
-The Videos admin allows you to link videos from YouTube, Vimeo or Facebook to WKS pages. To link a video, you need to find its URL by either copying the URL from the video’s page or clicking on the share button in YouTube and copying it there. You also need to find the aspect ratio of the video. Most videos now are in the 16x9 ratio, so it is the default. 4x3 is another common ratio, like the old televisions used to be. 1x1 is square and 21x9 is like cinemascope and not as frequently used. If you do not select the right ration, the video will not display correctly on the page. You also have to enter a title and if you want the video to appear on your kennel’s front page.
+The Videos admin allows you to link videos from YouTube, Vimeo or Facebook to WKS pages. To link a video, you need to find its URL by either copying the URL from the video’s page or clicking on the share button in YouTube and copying it there. You also need to find the aspect ratio of the video. Most videos now are in the 16x9 ratio, so it is the default. 4x3 is another common ratio, like the old televisions used to be. 1x1 is square and 21x9 is like cinemascope and not as frequently used. <u>If your video is vertical instead of horizontal, please use the 1x1 ratio.</u> If you do not select the right ratio, the video will not display correctly on the page. You also have to enter a title and if you want the video to appear on your kennel’s front page.
