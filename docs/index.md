@@ -20,7 +20,6 @@ Welcome to the new edition of Dogtec Web Kennel System, an online kennel social 
 * Present images as Short Stories
 * Upload images up to 3MB
 * Adjustable cropping area for image thumbnails
-* Upload images up to 2.5 MB
 * Search engine base on Kennel, Ads, Dogs, Groups or Stories
 * Facebook and Google login
 * Facebook Like and Share buttons
