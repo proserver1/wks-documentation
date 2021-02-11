@@ -18,11 +18,13 @@ Welcome to the new edition of Dogtec Web Kennel System, an online kennel social 
 
 * Ad listing (PRO only)
 * Present images as Short Stories
+* Upload images up to 3MB
+* Adjustable cropping area for image thumbnails
 * Upload images up to 2.5 MB
 * Search engine base on Kennel, Ads, Dogs, Groups or Stories
 * Facebook and Google login
 * Facebook Like and Share buttons
-* Link kennel and dogs to videos from YouTube, Vimeo or Facebook
+* Link to kennel and dogs and display videos from YouTube, Vimeo or Facebook
 * Easier way to delete items
 
 ## Unpopular Features Removed
