@@ -1,5 +1,7 @@
 # for archiving purpose only
 
+sorry as i never got the permission to use the database and continue the project, i will close this.
+
 
 ## Dogtec Web Kennel System Documentation and Issue Tracker
 
